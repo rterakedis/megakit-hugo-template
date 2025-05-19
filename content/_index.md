@@ -1,7 +1,7 @@
 ---
 title: Home
 seo:
-  page_description:
+  page_description: Test Page
   canonical_url:
   featured_image:
   author_twitter_handle:
